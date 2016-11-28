@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"css",
+				"css"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mar",
+				"margin-bottom: 〔property〕"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"vis",
+				"visited	(bootstrap.css)"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"st",
+				"static	(index.html)"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"backc",
+				"background-clip"
+			],
+			[
+				"f",
+				"ffffff"
+			],
+			[
+				"pad",
+				"padding-left	(bootstrap.css)"
+			],
+			[
+				"ff",
+				"ffffff"
+			],
+			[
+				"c",
+				"css"
+			],
+			[
+				"bo",
+				"border-box"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"ov",
+				"overflow-y"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"con",
+				"container 	Bootstrap 3 Class"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"hei",
+				"min-height: 〔property〕"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"data",
+				"data-offset"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"vi",
+				"visited"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"na",
+				"navbar-default"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"fo",
+				"fourth"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"navba",
+				"navbar-header"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"uk-ma",
+				"uk-margin-large-top"
+			],
+			[
+				"uk-mid",
+				"uk-width-medium-1-3"
+			],
+			[
+				"uk-fl",
+				"uk-flex-top"
+			],
+			[
+				"uk-mar",
+				"uk-margin-large-left"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"uk-fle",
+				"uk-flex-center"
+			],
+			[
+				"uk-cen",
+				"uk-navbar-center"
+			],
+			[
+				"uk-icon-",
+				"uk-icon-copyright"
+			],
+			[
+				"LIN",
+				"link"
+			],
+			[
+				"ccc",
+				"cccccc"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/templates/header.html",
+			"settings":
+			{
+				"buffer_size": 1071,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Cache/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Cache/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Cache/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Cache/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "Pac",
+		"selected_items":
+		[
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git:init",
+				"Git: Diff All Files (Ignore Whitespace)"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Upgrade/Overwrite All Packages",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package→安装插件"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"pip PIL",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os;pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path(); urllib.request.install_opener(urllib.request.build_opener( urllib.request.ProxyHandler()) );open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen('http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = ",
+			"import  urllib.request,os;pf='Package Control.sublime-package';ipp=sublime.installed_packages_path();urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler()));open(os.path.join(ipp,pf),'wb').write(urllib.request.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read())",
+			"git clone https://github.com/sublimehq/Packages.git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/docker-flask",
+		"/E/docker-flask/app",
+		"/E/docker-flask/app/templates"
+	],
+	"file_history":
+	[
+		"/E/jQuary-Games/1/index.html",
+		"/E/jQuary-Games/1/css/global.css",
+		"/E/docker-flask/app/index.py",
+		"/E/docker-flask/app/templates/header.html",
+		"/E/docker-flask/app/templates/footer.html",
+		"/E/docker-flask/app/static/css/global.css",
+		"/E/docker-flask/app/templates/service.html",
+		"/E/docker-flask/app/templates/background.html",
+		"/E/docker-flask/app/static/fonts/materialdesignicons-webfont.eot",
+		"/E/docker-flask/app/static/css/bootstrap.css",
+		"/E/docker-flask/app/templates/index.html",
+		"/G/8ubble.github.io/themes/Material/layout/_partial/sidebar-header.ejs",
+		"/G/8ubble.github.io/themes/Material/_config.yml",
+		"/G/8ubble.github.io/_config.yml",
+		"/G/8ubble.github.io/themes/Material/source/css/style.min.css",
+		"/G/8ubble.github.io/themes/Material/source/css/style.css",
+		"/G/8ubble.github.io/themes/Material/layout/_partial/footer-left.ejs",
+		"/G/8ubble.github.io/themes/material/_config.yml",
+		"/C/Users/泡泡君/.ssh/id_rsa",
+		"/G/8ubble.github.io/themes/material/package.json",
+		"/D/Program Files/Sublime Text 3/Data/Packages/GitSavvy/GitSavvy.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Git/Git.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/GitSavvy.sublime-settings",
+		"/E/docker-flask/app/test.py",
+		"/E/docker-flask/README.md",
+		"/E/docker-flask/app/static/css/layui.css",
+		"/E/docker-flask/app/uwsgi.ini",
+		"/E/docker-flask/flask/from.py",
+		"/E/docker-flask/app/hello.py",
+		"/C/Users/泡泡君/Desktop/复件 oem8(1)_UnPacked.exe",
+		"/C/Users/泡泡君/AppData/Local/Mozilla/Firefox/Profiles/5tbf348v.dev-edition-default/startupCache/startupCache.4.little",
+		"/C/Windows/WinSxS/x86_netfx-aspnet_regbrowser_files_b03f5f7f11d50a3a_10.0.14965.1001_none_bbaf18726ab65f6e/mozilla.browser",
+		"/C/Windows/Microsoft.NET/Framework64/v2.0.50727/CONFIG/Browsers/mozilla.browser",
+		"/C/Users/泡泡君/Desktop/p1ng/warp_speed.py",
+		"/C/Users/泡泡君/Desktop/p1ng/RACES/RACES.py",
+		"/G/flask/templates/header.html",
+		"/G/flask/templates/index.html",
+		"/G/flask/templates/service.html",
+		"/G/flask/from.py",
+		"/G/flask/templates/background.html",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Pylinter.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Pylinter/Pylinter.sublime-settings",
+		"/G/flask/hello.py",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Default/Preferences.sublime-settings",
+		"/G/flask-bootstrap3/flask_bootstrap3/__init__.py",
+		"/G/flask/index.html",
+		"/C/Users/泡泡君/Desktop/hello.py",
+		"/D/Program Files/Sublime Text 3/Data/Packages/SublimeTmpl/Main.sublime-menu",
+		"/D/Program Files/Sublime Text 3/Data/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/User/pep8_autoformat.sublime-settings",
+		"/D/Program Files/Sublime Text 3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/泡泡君/Documents/NetSarang/Xshell/Sessions/onleinse.php",
+		"/E/hbbz/index/templates/service.html",
+		"/E/hbbz/index/index/settings.py",
+		"/E/hbbz/index/templates/background.html",
+		"/E/hbbz/index/templates/index.html",
+		"/E/hbbz/index/templates/header.html",
+		"/E/hbbz/index/templates/advantage.html",
+		"/E/hbbz/index/static/bootstrap/js/animate.js",
+		"/E/hbbz/index/templates/footer.html",
+		"/E/hbbz/index/static/bootstrap/css/bootstrap.css",
+		"/E/hbbz/index/static/bootstrap/css/unslider.css",
+		"/E/hbbz/index/templates/case.html",
+		"/E/hbbz/index/home/views.py",
+		"/E/hbbz/index/index/urls.py",
+		"/E/hbbz/index/templates/script.html",
+		"/E/hbbz/index/static/bootstrap/js/unslider-min.js",
+		"/E/hbbz/index/templates/tabs.html",
+		"/E/hbbz/index/static/bootstrap/js/bootstrap.min.js",
+		"/E/hbbz/index/static/bootstrap/css/animate.min.css",
+		"/E/hbbz/index/static/bootstrap/js/bootstrap.js",
+		"/E/hbbz/index/static/bootstrap/css/bootstrap.min.css",
+		"/C/Users/泡泡君/Desktop/bootstrap-3.3.7-dist/css/bootstrap.css",
+		"/E/hbbz/index/static/bootstrap/css/bootstrap-theme.min.css",
+		"/E/hbbz/index/static/bootstrap/css/bootstrap.min.css.map",
+		"/D/泡泡君/workspace/java/dedark-demo/src/main/webapp/WEB-INF/index.ftl",
+		"/C/Users/泡泡君/Downloads/8ubble.github.io-master/index.html",
+		"/C/Users/泡泡君/Downloads/Thinny-2.1-cosette/index.html",
+		"/E/虚拟机/36kr_2016_v1.1.8/single-news.php",
+		"/E/虚拟机/36kr_2016_v1.1.8/index.php",
+		"/E/虚拟机/36kr_2016_v1.1.8/archive-news.php",
+		"/E/wordpress/index.php",
+		"/C/Users/泡泡君/Downloads/jQuary/jquery-ui-1.12.0/jquery-ui.css",
+		"/E/pkupw.com/dist/index.html",
+		"/E/pkupw.com/dist/course/course.html",
+		"/E/pkupw.com/dist/js/main.js",
+		"/E/pkupw.com/dist/u/teacher.html",
+		"/E/pkupw.com/dist/about/aboutus.css",
+		"/E/pkupw.com/dist/u/通用模板.html",
+		"/E/pkupw.com/dist/about/aboutus.html",
+		"/E/pkupw.com/dist/member/login.html",
+		"/E/pkupw.com/dist/simpled.html",
+		"/E/pkupw.com/dist/404.html",
+		"/E/pkupw.com/dist/css/main.css",
+		"/E/pkupw.com/dist/css/404.css",
+		"/E/pkupw.com/dist/css/uikit.min.css",
+		"/E/pkupw.com/dist/css/normalize.css",
+		"/E/pkupw.com/dist/about/contactus.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn-primary-",
+			"btn-primary",
+			".nav > li > a:focus",
+			".nav > li > a:hover, .nav > li > a:focus",
+			"a:hover",
+			"@media",
+			".icon-bar",
+			"first",
+			"navbar-brand",
+			"navbar-right",
+			"navbar",
+			"navbar-brand",
+			"a:before",
+			":before",
+			".navbar",
+			"navbar",
+			"navbar-header",
+			".navbar",
+			"default_layout",
+			"#scheme-Paradox .social-btn",
+			"test",
+			"footer-index",
+			"layui-footer",
+			"site-title",
+			"layui-field-title",
+			"site-h1",
+			"layui",
+			".layui-nav .layui-nav-item a",
+			"layui-nav",
+			"header",
+			"header-index",
+			"layui-header header header-index",
+			"header-index",
+			"demo",
+			" .",
+			"logo",
+			"site-banner",
+			"h1",
+			"site-banner-bg",
+			"css",
+			"%}\"></",
+			"static",
+			"js",
+			"bootstrap/",
+			"symbols",
+			"pylint_rc",
+			";",
+			"tr><td>",
+			"td",
+			"header",
+			"section",
+			"TEMPLATE_DIRS",
+			"background: #333;",
+			"nav",
+			"#333",
+			"test-align",
+			"align",
+			"test",
+			"first",
+			"1st",
+			"icon-bar",
+			"foot-banner",
+			"over-flow",
+			"js",
+			"uk-icon-align-center",
+			"k-margin-top",
+			"uk-container",
+			"uk-flex-center",
+			"\">",
+			"uk-dropdown-width-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "E:\\docker-flask"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/templates/header.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								966,
+								966
+							]
+						],
+						"settings":
+						{
+							"git_savvy.file_path": "E:\\docker-flask\\app\\templates\\header.html",
+							"git_savvy.repo_path": "E:\\docker-flask",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 132.0
+	},
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 132.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 108.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
