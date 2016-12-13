@@ -1,21 +1,21 @@
 {% extends "base.html" %}
 {% block html_attribs %}lang="zh-cn"{% endblock html_attribs %}
-{% block title %}{{title}}{% endblock title %}
+{% block title %}服务模式 | 河北比众{% endblock title %}
 {%- block styles %}
 {{ super() }}
 <link href="static/css/global.css" rel="stylesheet" type="text/css">
-<link href="static/css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="static/css/homepage.css" rel="stylesheet" type="text/css">
 {%- endblock styles %}
 {% block scripts %}
 {{ super() }}
-<script type="text/javascript" src="static/js/animate.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".navbar").css("background", "#22222e");
+});
+</script>
 {%- endblock scripts %}
-
-{% block body_attribs %} data-spy="scroll"{% endblock body_attribs %}
 {% block body -%}
 {{ super() }}
-{% include "background.html" %}
+{% include "services-1.html" %}
 {% include "footer.html" %}
 {%- endblock body %}
-
-

@@ -4,6 +4,90 @@
 		"selected_items":
 		[
 			[
+				"title",
+				"title	(services.html)"
+			],
+			[
+				"fi",
+				"fixed	(global.css)"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"nav",
+				"navbar 	Bootstrap 3 Class"
+			],
+			[
+				"ser",
+				"services.html	(index.py)"
+			],
+			[
+				"ap",
+				"apps"
+			],
+			[
+				"flask_",
+				"flask_sqlalchemy	module"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"na",
+				"navbar	(base.html)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"margin-",
+				"margin-bottom	(global.css)"
+			],
+			[
+				"se",
+				"services	(index.py)"
+			],
+			[
+				"bas",
+				"base	Tag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"til",
+				"title1"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"boo",
+				"Bootstrap	class"
+			],
+			[
+				"bo",
+				"flask_bootstrap	module"
+			],
+			[
 				"css",
 				"css"
 			],
@@ -14,10 +98,6 @@
 			[
 				"re",
 				"return"
-			],
-			[
-				"mar",
-				"margin-bottom: 〔property〕"
 			],
 			[
 				"ma",
@@ -48,14 +128,6 @@
 				"max-width"
 			],
 			[
-				"min",
-				"min-width"
-			],
-			[
-				"pa",
-				"padding-left"
-			],
-			[
 				"max-",
 				"max-width"
 			],
@@ -76,20 +148,12 @@
 				"ffffff"
 			],
 			[
-				"pad",
-				"padding-left	(bootstrap.css)"
-			],
-			[
 				"ff",
 				"ffffff"
 			],
 			[
 				"c",
 				"css"
-			],
-			[
-				"bo",
-				"border-box"
 			],
 			[
 				"box",
@@ -110,10 +174,6 @@
 			[
 				"pos",
 				"position"
-			],
-			[
-				"fon",
-				"font-style"
 			],
 			[
 				"back",
@@ -168,10 +228,6 @@
 				"text-center"
 			],
 			[
-				"na",
-				"navbar-default"
-			],
-			[
 				"add",
 				"addClass"
 			],
@@ -190,10 +246,6 @@
 			[
 				"o",
 				"overflow"
-			],
-			[
-				"h",
-				"hidden"
 			],
 			[
 				"a",
@@ -268,11 +320,27 @@
 	"buffers":
 	[
 		{
-			"file": "app/templates/header.html",
+			"file": "app/templates/services.html",
 			"settings":
 			{
-				"buffer_size": 1071,
+				"buffer_size": 611,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.py",
+			"settings":
+			{
+				"buffer_size": 755,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/templates/base.html",
+			"settings":
+			{
+				"buffer_size": 2633,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -433,21 +501,35 @@
 	[
 		"/E/docker-flask",
 		"/E/docker-flask/app",
+		"/E/docker-flask/app/static",
+		"/E/docker-flask/app/static/css",
+		"/E/docker-flask/app/static/js",
 		"/E/docker-flask/app/templates"
 	],
 	"file_history":
 	[
+		"/E/docker-flask/app/templates/services-1.html",
+		"/E/docker-flask/app/templates/rank.html",
+		"/E/docker-flask/app/static/js/animate.js",
+		"/E/docker-flask/app/static/css/homepage.css",
+		"/E/docker-flask/app/static/css/global.css",
+		"/E/docker-flask/app/templates/about.html",
+		"/E/docker-flask/app/index.py",
+		"/E/docker-flask/app/templates/services.html",
+		"/E/docker-flask/app/database.py",
+		"/E/docker-flask/app/templates/base.html",
+		"/E/docker-flask/app/static/css/bootstrap.css",
+		"/E/docker-flask/app/templates/footer.html",
+		"/E/docker-flask/app/templates/service.html",
+		"/E/docker-flask/app/templates/advantage.html",
+		"/E/docker-flask/app/templates/index.html",
+		"/E/docker-flask/app/templates/404.html",
+		"/E/docker-flask/app/templates/test.html",
 		"/E/jQuary-Games/1/index.html",
 		"/E/jQuary-Games/1/css/global.css",
-		"/E/docker-flask/app/index.py",
 		"/E/docker-flask/app/templates/header.html",
-		"/E/docker-flask/app/templates/footer.html",
-		"/E/docker-flask/app/static/css/global.css",
-		"/E/docker-flask/app/templates/service.html",
 		"/E/docker-flask/app/templates/background.html",
 		"/E/docker-flask/app/static/fonts/materialdesignicons-webfont.eot",
-		"/E/docker-flask/app/static/css/bootstrap.css",
-		"/E/docker-flask/app/templates/index.html",
 		"/G/8ubble.github.io/themes/Material/layout/_partial/sidebar-header.ejs",
 		"/G/8ubble.github.io/themes/Material/_config.yml",
 		"/G/8ubble.github.io/_config.yml",
@@ -553,6 +635,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"padding-top:10px;padding-bottom:1px;",
+			"navbar",
+			"63px",
+			".nav > li > a",
+			"margin-bottom",
 			"btn-primary-",
 			"btn-primary",
 			".nav > li > a:focus",
@@ -647,29 +734,94 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/templates/header.html",
-					"semi_transient": true,
+					"file": "app/templates/services.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1071,
+						"buffer_size": 611,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								966,
-								966
+								529,
+								529
 							]
 						],
 						"settings":
 						{
-							"git_savvy.file_path": "E:\\docker-flask\\app\\templates\\header.html",
+							"auto_complete": false,
+							"git_savvy.file_path": "E:\\docker-flask\\app\\templates\\services.html",
+							"git_savvy.repo_path": "E:\\docker-flask",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								313,
+								313
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_savvy.file_path": "E:\\docker-flask\\app\\index.py",
+							"git_savvy.repo_path": "E:\\docker-flask",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2409,
+								2409
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"git_savvy.file_path": "E:\\docker-flask\\app\\templates\\base.html",
 							"git_savvy.repo_path": "E:\\docker-flask",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
@@ -679,7 +831,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

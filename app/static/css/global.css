@@ -1,7 +1,37 @@
 * {
-	overflow:-Scroll;
-	overflow-x:hidden;
+    overflow:-Scroll;
+    overflow-x:hidden;
+    text-decoration: none;
 }
+
+body {
+    font-family: verdana, "Hiragino Sans GB", "Microsoft YaHei";
+}
+.container {
+    width: 1000px;
+    padding-left: 0;
+    padding-right: 0;
+}
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+a:active,
+a:hover {
+    outline: none;
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: default;
+    background-image: default;
+}
+
+
 .first {
 	background: url("../img/background.jpg") center center fixed no-repeat;
 	-moz-background:cover;
@@ -10,6 +40,7 @@
 	background-size: cover;
 }
 .navbar-brand{
+    font-size: 24px;
 	color: #ffffff;
 	padding-left: 50px;
 }
@@ -19,14 +50,16 @@
 }
 .navbar-nav > li > a:hover,.nav > li > a:focus{
 	background-color: transparent;
-	border-bottom: 2px solid #ffffff;
+    height: 53px;
+	border-bottom: 3px solid #ffffff;
+    overflow-y: hidden;
 }
-.container{
+.first > .container{
 	padding-top: 200px;
 	padding-bottom: 315px;
 	color: #ffffff;
 }
-.container h1,h2{
+.first > .container h1,h2{
 	overflow:-Scroll;overflow-y:hidden;
 }
 #contactus {
@@ -36,12 +69,107 @@
 	background-color: #428bca;
 }
 #foot{
-	background-color: #444444;
-	color: #ffffff;
+    display: block;
+	overflow: hidden;
+	overflow-x: hidden;
+	overflow-y: hidden;
+    color: #bfbfbf;
+    font-size: 12px;
+    line-height: 2em;
+    min-width: 976px;
+    background-color: #22222e;
+    padding:100px 100px 10px 100px;
 }
-@media (min-width: 768px){
-	.container{
-	padding-top: 200px;
-	padding-bottom: 315px;
-	}
+#foot ul {
+    padding-left: 0;
+    list-style: none;
+    margin-bottom: 10px;
+}
+#foot h5{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    overflow-y: hidden;
+}
+#foot ul li a{
+    color: #bfbfbf;
+    text-decoration: none;
+}
+
+#foot ul li a:hover{
+    color: #428bca;
+    text-decoration: none;
+}
+.copyright {    
+    line-height: 48px;
+    text-align: center;
+    border-top: 1px solid #292934;
+    margin-top: 48px;
+}
+
+.second, .third, .third h3{
+	overflow: hidden;
+	overflow-y: hidden;
+
+}
+#introductions{
+	width: 1000px;
+	height:196px;
+	margin: -10px auto;
+	line-height: 1.42857143;
+	color: #333;
+}
+.second h2 ,.third h2{
+	margin-top: 80px;
+	margin-bottom: 80px;
+    font-size: 36px;
+    text-align: center;
+}
+
+.service-icon {
+    display: block;
+    width: 56px;
+    height: 56px;
+    text-align: center;
+    border: 1px solid #e7e7e7;
+    border-radius: 28px;
+    background-color: #fff;
+    margin-left: -28px;
+    padding-top: 8px;
+    position: absolute;
+    top: -28px;
+    left: 50%;
+}
+.second h3 ,.third h3{
+	padding-top: 24px;
+}
+.second h3,p{
+	margin-top: 24px;
+    text-align: center;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+.third h3,p{
+	margin-top: 24px;
+    text-align: center;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+.service-item {
+    width: 252px;
+    height: 152px;
+    text-align: center;
+    border: 1px solid #e7e7e7;
+    padding: 12px;
+    position: relative;
+    overflow: hidden;
+    overflow-y: hidden;
+}
+.second p ,.third p{
+	cursor: default;
+	margin: 0 0 12px;
+	display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
 }

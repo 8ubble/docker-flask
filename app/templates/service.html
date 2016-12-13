@@ -1,5 +1,51 @@
-<section class="second" id="2nd">
-    <h3 class="lead text-center">{% block title %}服务模式{% endblock %}</h3>
-
-    </div>  
+{% block section %}
+<section class={% block sectionname %}"second"{% endblock sectionname %} id={% block idname %}"2nd"{% endblock idname %}>
+    <h2>{% block bigtitle %}服务模式{% endblock bigtitle%}</h2>
+    <div class="row" id="introductions">
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-bell"></i></span>
+                    <h3>{% block title1 %}Title1{% endblock title1%}</h3>
+                    <p>{% block word1 %}依托于白帽子社区为企业提供全球的高危风险预警服务。{% endblock word1%}</p>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-group"></i></span>
+                    <h3>{% block title2 %}Title2{% endblock title2%}</h3>
+                    <p>乌云核心白帽子安全专家团队在线为企业提供服务支持。</p>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-report"></i></span>
+                    <h3>{% block title3 %}Title3{% endblock title3%}</h3>
+                    <p>人工在线校验确保唐朝安全巡航检测报告的100%准确。</p>
+                </div>
+            </div>
+        </div>
+    <div class="row" id="introductions">
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-bell"></i></span>
+                    <h3>{% block title4 %}Title4{% endblock title4%}</h3>
+                    <p>依托于白帽子社区为企业提供全球的高危风险预警服务。</p>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-group"></i></span>
+                    <h3>{% block title5 %}Title5{% endblock title5%}</h3>
+                    <p>乌云核心白帽子安全专家团队在线为企业提供服务支持。</p>
+                </div>
+            </div>
+            <div class="col-xs-4">
+                <div class="service-item">
+                    <span class="service-icon"><i class="icons-md icons-md-report"></i></span>
+                    <h3>{% block title6 %}Title6{% endblock title6%}</h3>
+                    <p>人工在线校验确保唐朝安全巡航检测报告的100%准确。</p>
+                </div>
+            </div>
+        </div>
 </section>
+{% endblock section %}

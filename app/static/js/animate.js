@@ -5,8 +5,12 @@ $(function(){
 
 $(window).scroll(function() {
     var value = $(this).scrollTop();
-    if (value > 80)
-        $(".navbar").css("background", "#212121");
-    else
+    if (value > 80){
+        $(".navbar").css("background", "#22222e");
+    }
+    else{
         $(".navbar").css("background", "transparent");
+        $(".navbar").css("padding-bottom", "2px");    
+    }
+
 });

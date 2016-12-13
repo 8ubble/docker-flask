@@ -1,0 +1,244 @@
+@charset "utf-8";
+
+/* global
+------------------------------------------------------------*/
+* {
+    overflow:-Scroll;
+    overflow-x:hidden;
+    text-decoration: none;
+}
+
+body {
+    font-family: verdana, "Hiragino Sans GB", "Microsoft YaHei";
+}
+.container {
+    width: 1000px;
+    padding-left: 0;
+    padding-right: 0;
+}
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+a:active,
+a:hover {
+    outline: none;
+}
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+    background-color: default;
+    background-image: default;
+}
+/* main
+------------------------------------------------------------*/
+.main-homepage > .section > .container {
+    box-sizing: border-box;
+    padding-top: 60px;
+}
+
+.section h2 {
+    color: #2bab69;
+    font-size: 36px;
+    text-align: center;
+}
+/* product-service
+------------------------------------------------------------*/
+article p{
+    text-align: left;
+}
+
+.bread-crumb {
+    height: 30px;
+    line-height: 30px;
+    margin-top: 16px;
+    margin-bottom: 20px;
+    padding-bottom: 3px;
+    position: relative;
+}
+.bread-crumb > strong {
+    font-size: 16px;
+    font-weight: normal;
+    border-left: 2px solid #2bab69;
+    padding-left: 4px;
+}
+
+.product-service {
+    min-height: 640px;
+    padding-top: 60px;
+}
+.product-service > .container {
+    padding-left: 160px;
+    padding-top:10 px;
+    padding-bottom: 15px;
+    position: relative;
+}
+.product-service > .container > aside {
+    width: 160px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.navbar-aside-home {
+    min-height:300px;
+    width: 160px;
+    padding-top: 24px;
+}
+.navbar-aside-home > li > a {
+    color: #252531;
+    font-size: 16px;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 0 0 10px;
+    position: relative;
+}
+.navbar-aside-home > li > a:hover,
+.navbar-aside-home > li > a:focus,
+.navbar-aside-home > li.active > a,
+.navbar-aside-home > li.active > a:hover,
+.navbar-aside-home > li.active > a:focus {
+    background: none;
+}
+.navbar-aside-home > li > a > .icons-arrow-right {
+    position: absolute;
+    top: 12px;
+    right: 2px;
+}
+.navbar-aside-home > li.active > a > .icons-arrow-right {
+    background-position: left -224px;
+}
+
+.navbar-aside-home .nav {
+    font-size: 12px;
+    display: none;
+}
+.navbar-aside-home .active > .nav {
+    display: block;
+}
+.navbar-aside-home .nav > li {
+    padding: 4px 0;
+}
+.navbar-aside-home .nav > li > a {
+    color: #000;
+    display: block;
+    height: 24px;
+    line-height: 24px;
+    padding: 0 0 0 10px;
+}
+.navbar-aside-home .nav > li > a:hover,
+.navbar-aside-home .nav > li > a:focus,
+.navbar-aside-home .nav > li.active > a,
+.navbar-aside-home .nav > li.active > a:hover,
+.navbar-aside-home .nav > li.active > a:focus {
+    border-left: 2px solid #0cad67;
+    background-color: #fbfdff;
+    padding: 0 0 0 8px;
+}
+.affix-top { position: relative; }
+.affix { top: 60px; }
+.affix,
+.affix-bottom { width: 160px; }
+.affix-bottom { position: absolute; }
+
+.product-service > .container > .section {
+    padding: 24px 0 96px 24px;
+}
+.product-service .bread-crumb {
+    margin-top: 0;
+}
+
+#owl-banner {
+    min-height: auto;
+    margin-top: 0;
+    margin-bottom: 16px;
+    padding-left: 0;
+    padding-right: 0;
+}
+#owl-banner .item {
+    width: 816px;
+    height: 280px;
+    overflow: hidden;
+}
+
+#owl-banner .owl-controls {
+    margin-top: -24px;
+    position: relative;
+    z-index: 9999;
+}
+#owl-banner .owl-controls .owl-page span{
+    border: 1px solid #434354;
+	background: #434354;
+}
+#owl-banner .owl-controls .owl-page.active span,
+#owl-banner .owl-controls.clickable .owl-page:hover span {
+    border-color: #fff;
+    background: #fff;
+}
+
+.product-info {
+    font-size: 12px;
+    margin-top: -20px;
+    padding-top: 72px;
+}
+.product-info > h3 {
+    overflow-y: hidden;
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.product-info > h4 {
+    overflow-y: hidden;    
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.product-info > p {
+    line-height: 1.6em;
+    margin-bottom: 1em;
+}
+
+.product-info-list {
+    line-height: 1.6em;
+    padding-left: 2em;
+}
+.product-info-list > li {
+    background: url("list.png")/*tpa=http://www.tangscan.com/static/img/list.png*/ no-repeat left 7px;
+    padding-left: 12px;
+}
+.product-info-list > li > a:hover {
+    text-decoration: underline;
+}
+
+.risk-manage-center > li {
+    text-align: center;
+}
+.risk-manage-center figure > p {
+    margin-bottom: 0;
+}
+.risk-manage-center figure > figcaption > strong {
+    color: #428bca;
+    font-size: 14px;
+    font-weight: normal;
+    display: block;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.risk-icons {
+    display: inline-block;
+    width: 56px;
+    height: 56px;
+    background-image: url("risk-icons.png")/*tpa=http://www.tangscan.com/static/img/risk-icons.png*/;
+    background-repeat: no-repeat;
+}
+.risk-icons-1 { background-position: left top; }
+.risk-icons-2 { background-position: left -56px; }
+.risk-icons-3 { background-position: left -112px; }
+.risk-icons-4 { background-position: left -168px; }
